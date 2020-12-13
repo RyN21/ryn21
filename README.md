@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/postgresql%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=blue" />
   <img src="https://img.shields.io/badge/solidity%20-%2320232a.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=red" />
-  <img src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue" /><br>
+  <img src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/travis%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%0FD089" />
   <img src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/atom%20-%2320232a.svg?&style=for-the-badge&logo=atom&logoColor=green" />
