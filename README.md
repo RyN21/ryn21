@@ -20,11 +20,12 @@
 ## Tech Skills
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red" />
-  <img src="https://img.shields.io/badge/postgresql%20-%23007ACC.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/travis%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/git%20-%23593d88.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/atom%20-%0FD089.svg?&style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-%23593d88.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/solidity%20-%2320232a.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=red" />
+  <img src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue" /><br>
+  <img src="https://img.shields.io/badge/travis%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%0FD089" />
+  <img src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/atom%20-%2320232a.svg?&style=for-the-badge&logo=atom&logoColor=green" />
+  <img src="https://img.shields.io/badge/heroku%20-%2320232a.svg?&style=for-the-badge&logo=heroku&logoColor=purple" />
 </p>
