@@ -20,7 +20,9 @@
 ## Tech Skills
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red" />
+  <img src="https://img.shields.io/badge/elixir%20-%2320232a.svg?&style=for-the-badge&logo=elixir&logoColor=B251F3" />
   <img src="https://img.shields.io/badge/postgresql%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=F642F6" />
   <img src="https://img.shields.io/badge/solidity%20-%2320232a.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=red" />
   <img src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
