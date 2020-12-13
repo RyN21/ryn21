@@ -1,11 +1,12 @@
 ### Hello, I'm Ryan Laleh 👋
 
-- 🔭 I’m currently working on building DApps on the Ethereum Network.
 - Turing School of Software and Design, 2020
-- [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
-- Backend Developer RUBY ON RAILS
-- Blockchain Developer SOLIDITY
+- Backend Software Developer
+- Blockchain and Smart Contract Developer
+- Constantly learning and growing
+- Colorado
 - Climbing When not coding
+- [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
 
 ## 📈 **Github Stats:**
 
@@ -17,7 +18,7 @@
 </a>
 </br>
 
-## Tech Skills
+## Languages & Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red" />
   <img src="https://img.shields.io/badge/elixir%20-%2320232a.svg?&style=for-the-badge&logo=elixir&logoColor=B251F3" />
