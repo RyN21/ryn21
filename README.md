@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building DApps on the Ethereum Network.
 - Turing School of Software and Design, 2020
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
 - Backend Developer RUBY ON RAILS
 - Blockchain Developer SOLIDITY
 - Climbing When not coding
