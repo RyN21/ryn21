@@ -43,13 +43,13 @@
 ## Tech Skills
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/rails%20-%23007ACC.svg?&style=for-the-badge&logo=rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/rubyonrails%20-%23007ACC.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql%20-%2343853D.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/travicci%20-%2320232a.svg?&style=for-the-badge&logo=travisci&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/travis-ci%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/git%20-%23404d59.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/git%20-%23593d88.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/atom%20-%23593d88.svg?&style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/atom%20-%23404d59.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/heroku%20-%23593d88.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
