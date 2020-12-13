@@ -26,8 +26,9 @@
   <img src="https://img.shields.io/badge/solidity%20-%2320232a.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=red" />
   <img src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue" /><br>
-  <img src="https://img.shields.io/badge/travis%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%0FD089" />
   <img src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=F55229" />
   <img src="https://img.shields.io/badge/atom%20-%2320232a.svg?&style=for-the-badge&logo=atom&logoColor=37F383" />
+  <img src="https://img.shields.io/badge/travis%20-%2320232a.svg?&style=for-the-badge&logo=travis-ci&logoColor=%0FD089" />
+  <img src="https://img.shields.io/badge/circle%20-%2320232a.svg?&style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/heroku%20-%2320232a.svg?&style=for-the-badge&logo=heroku&logoColor=B251F3" />
 </p>
