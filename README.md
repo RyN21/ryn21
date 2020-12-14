@@ -1,4 +1,4 @@
-# RYAN LALEH 👋🏽
+# **RYAN LALEH 👋🏽**
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </br>
