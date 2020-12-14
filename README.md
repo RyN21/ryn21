@@ -1,4 +1,4 @@
-### Hello, I'm Ryan Laleh 👋🏽
+### RYAN LALEH 👋🏽
 
 - Turing School of Software and Design, 2020
 - Backend Software Developer 🧑🏽‍💻
