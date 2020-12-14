@@ -41,3 +41,9 @@
   <img src="https://img.shields.io/badge/circle%20-%2320232a.svg?&style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/heroku%20-%2320232a.svg?&style=for-the-badge&logo=heroku&logoColor=B251F3" />
 </p>
+
+## **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-ryan-laleh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Github-RyN21-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/Twitter-@RyanLaleh-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
