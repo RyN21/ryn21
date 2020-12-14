@@ -42,16 +42,18 @@
   <img src="https://img.shields.io/badge/heroku%20-%2320232a.svg?&style=for-the-badge&logo=heroku&logoColor=B251F3" />
 </p>
 
-## **Reach out to me:** ️
+## **Contact me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] 
 [<img src="https://img.shields.io/badge/Github-RyN21-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 [<img src="https://img.shields.io/badge/Stackoverflow-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@RyanLaleh-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
+[<img src="https://img.shields.io/badge/Yahoo-laleh21@yahoo.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836"/>][yahoo]
 
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/ryan-laleh-0a81511a7/
 [stackoverflow]: https://stackoverflow.com/users/12935748/ryn21
 [github]: https://github.com/RyN21
+[yahoo]: mailto:laleh21@yahoo.com "Lets connect through email"
 [twitter]: https://twitter.com/RyanLaleh
