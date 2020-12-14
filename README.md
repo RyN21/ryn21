@@ -51,7 +51,7 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/ryan-laleh
-[stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
+[linkedin]: https://www.linkedin.com/in/ryan-laleh-0a81511a7/
+[stackoverflow]: https://stackoverflow.com/users/12935748/ryn21
 [github]: https://github.com/RyN21
 [twitter]: https://twitter.com/RyanLaleh
