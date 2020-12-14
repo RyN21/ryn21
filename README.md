@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## **About Me**
 
 - Turing School of Software and Design, 2020
 - Backend Software Developer 🧑🏽‍💻
@@ -13,7 +13,7 @@
 - Climbing When not coding 🏽‍♂️
 - [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
 
-## 📈 **Github Stats:**
+## **Github Stats:**
 
 <a href="https://github.com/RyN21">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=RyN21&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
@@ -23,7 +23,7 @@
 </a>
 </br>
 
-## Languages & Tools:
+## **Languages & Tools**:
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red" />
   <img src="https://img.shields.io/badge/elixir%20-%2320232a.svg?&style=for-the-badge&logo=elixir&logoColor=B251F3" />
