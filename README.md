@@ -1,11 +1,11 @@
 ### Hello, I'm Ryan Laleh 👋
 
 - Turing School of Software and Design, 2020
-- 🧑🏽‍💻 Backend Software Developer
+- Backend Software Developer 🧑🏽‍💻
 - Blockchain and Smart Contract Developer
 - Constantly learning and growing
-- Colorado
-- 🧗🏽‍♂️ Climbing When not coding
+- Colorado 🏕️
+- Climbing When not coding 🧗🏽‍♂️ 
 - [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
 
 ## 📈 **Github Stats:**
