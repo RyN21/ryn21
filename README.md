@@ -3,14 +3,17 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </br>
 
-## **About Me**
+## **About Me:**
 
 - Turing School of Software and Design, 2020
 - Backend Software Developer 🧑🏽‍💻
 - Blockchain and Smart Contract Developer ₿
 - Constantly learning and growing 🧑🏽‍🎓
 - Colorado 🏕️ ⛰️
-- Climbing When not coding 🏽‍♂️
+- When not coding:
+   - 🧗🏽‍♂️ climbing
+   - 🎱 Billiards
+   - ♟️ Chess
 - [LinkedIn](https://www.linkedin.com/in/ryan-laleh-0a81511a7/)
 
 ## **Github Stats:**
