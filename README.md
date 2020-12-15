@@ -1,4 +1,5 @@
 # **RYAN LALEH 👋🏽**
+<h3 align="center">RYAN LALEH<br><a href="https://www.linkedin.com/in/ryan-laleh/">LinkedIn</a> | <a href="mailto:laleh21@yahoo.com">Email</a> | <a href="https://www.canva.com/design/DAENBkVEkSQ/FjAUAvBtF5dblgO80lr1sA/view?utm_content=DAENBkVEkSQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Resume</a> | <a href="https://alumni.turing.io/alumni/ryan-laleh">Portfolio</a></h3>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </br>
