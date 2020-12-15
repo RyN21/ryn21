@@ -11,11 +11,12 @@
 - Backend Software Engineer 🧑🏽‍💻
 - Blockchain and Smart Contract Engineer ₿
 - Constantly learning and growing 🧑🏽‍🎓
-- Colorado 🏕️ ⛰️
+- Colorado ⛰️
 - When not coding:
    - 🧗🏽‍♂️ climbing
    - 🎱 Billiards
-   - ♟️ Chess<br>
+   - ♟️ Chess
+   - 🏕️ Camping<br>
 
 ## **Github Stats:**
 
