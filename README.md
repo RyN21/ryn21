@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </br>
 
+[<img src="https://img.shields.io/badge/My-Resume-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=&color=blue"/>][resume]
+
 ## **About Me:**
 
-[<img src="https://img.shields.io/badge/My-Resume-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=&color=blue"/>][resume]
 - Turing School of Software and Design, 2020 🎓
 - Backend Software Engineer 🧑🏽‍💻
 - Blockchain and Smart Contract Engineer ₿
