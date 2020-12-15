@@ -47,7 +47,7 @@
 [<img src="https://img.shields.io/badge/Github-RyN21-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 [<img src="https://img.shields.io/badge/Stackoverflow-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@RyanLaleh-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
-[<img src="https://img.shields.io/badge/Yahoo-laleh21@yahoo.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=yahoo&color=d14836"/>][yahoo]
+[<img src="https://img.shields.io/badge/Yahoo-laleh21@yahoo.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=yahoo!&color=d14836"/>][yahoo]
 
 <!-- Links of Definitions -->
 
