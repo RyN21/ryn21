@@ -5,7 +5,7 @@
 
 ## **About Me:**
 
-- Turing School of Software and Design, 2020
+- Turing School of Software and Design, 2020 🎓
 - Backend Software Engineer 🧑🏽‍💻
 - Blockchain and Smart Contract Engineer ₿
 - Constantly learning and growing 🧑🏽‍🎓
@@ -29,7 +29,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red" />
   <img src="https://img.shields.io/badge/elixir%20-%2320232a.svg?&style=for-the-badge&logo=elixir&logoColor=B251F3" />
+  <img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/postgresql%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SQL%20-%2320232a.svg?&style=for-the-badge&logo=SQL&logoColor=blue" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-%2320232a.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=blue" />
   <img src="https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=F642F6" />
   <img src="https://img.shields.io/badge/solidity%20-%2320232a.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=red" />
