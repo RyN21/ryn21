@@ -8,7 +8,7 @@
 
 ## **About Me:**
 
-- Turing School of Software and Design, 2020 🎓
+- Turing School of Software and Design 🎓
 - Backend Software Engineer 🧑🏽‍💻
 - Blockchain and Smart Contract Engineer ₿
 - Constantly learning and growing 🧑🏽‍🎓
