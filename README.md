@@ -62,7 +62,7 @@
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/ryan-laleh-0a81511a7/
-[stackoverflow]: https://stackoverflow.com/
+[stackoverflow]: https://stackoverflow.com/users/14820781/ryn21
 [github]: https://github.com/RyN21
 [yahoo]: mailto:laleh21@yahoo.com "Lets connect through email"
 [twitter]: https://twitter.com/RyanLaleh
