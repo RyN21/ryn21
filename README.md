@@ -56,8 +56,9 @@
 [<img src="https://img.shields.io/badge/LinkedIn-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]<br>
 [<img src="https://img.shields.io/badge/Yahoo-laleh21@yahoo.com-informational?style=for-the-badge&labelColor=black&logoColor=5858FA&logo=yahoo!&color=5858FA"/>][yahoo]<br>
 [<img src="https://img.shields.io/badge/Stackoverflow-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]<br>
-<!--[<img src="https://img.shields.io/badge/HackerRank-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=hackerrank&color=04B45F"/>][hackerrank]<br>-->
 [<img src="https://img.shields.io/badge/Twitter-@RyanLaleh-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]<br>
+
+<!--[<img src="https://img.shields.io/badge/HackerRank-ryan--laleh-informational?style=for-the-badge&labelColor=black&logo=hackerrank&color=04B45F"/>][hackerrank]<br>-->
 
 
 <!-- Links of Definitions -->
