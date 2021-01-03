@@ -9,14 +9,15 @@
 ## **About Me:**
 
 - Turing School of Software & Design 🎓
-- Backend Software Engineer 🧑🏽‍💻
-- Blockchain and Smart Contract Engineer ₿
-- Constantly learning and growing 🧑🏽‍🎓
-- Colorado ⛰️
+- 🧑🏽‍💻 Backend Software Engineer 
+- ₿ Blockchain and Smart Contract Engineer
+- 🧑🏽‍🎓 Constantly learning and growing 
+- ⛰️ Colorado 
 - When not coding:
    - 🧗🏽‍♂️ climbing
    - 🎱 Billiards
    - ♟️ Chess
+   - 📈 Trading/Investing
    - 🏕️ Camping<br>
 
 ## **Github Stats:**
