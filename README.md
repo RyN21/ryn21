@@ -1,7 +1,7 @@
 # **RYAN LALEH 👋🏽**
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JQpOCgnGfb7FCvEVrd/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif">
 </br>
 
 [<img src="https://img.shields.io/badge/My-Resume-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=&color=blue"/>][resume]
