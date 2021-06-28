@@ -70,5 +70,5 @@
 [github]: https://github.com/RyN21
 [yahoo]: mailto:laleh21@yahoo.com "Lets connect through email"
 [twitter]: https://twitter.com/RyanLaleh
-[Resume]: https://www.canva.com/design/DAENBkVEkSQ/FjAUAvBtF5dblgO80lr1sA/view?utm_content=DAENBkVEkSQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+[Resume]: https://www.canva.com/design/DAEiiCxk92w/VcdHiWShAccesKqjdzG-iQ/view?utm_content=DAEiiCxk92w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 [hackerrank]: https://www.hackerrank.com/laleh21
