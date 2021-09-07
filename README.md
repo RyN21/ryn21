@@ -19,7 +19,6 @@
    - ♟️ Chess
    - 📈 Trading/Investing
    - 🏕️ Camping<br>
-   - 🚀 XRP
 
 ## **Github Stats:**
 
